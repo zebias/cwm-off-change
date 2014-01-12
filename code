@@ -91,3 +91,5 @@ void handle_chargemode() {
     }
 }
 // add by linkscue end, cwm off mode charging
+//修改文件：bootable/recovery/extendedcommands.c
+//修改后的文件对比：diff bootable/recovery/extendedcommands.c.origin bootable/recovery/extendedcommands.c
